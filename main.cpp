@@ -4,6 +4,9 @@
 #include "schedule.h"
 using namespace std;
 
+/* This code is provided by the instructor*/
+
+
 // ****************************************** Enum input >> operator ******************************************
 
 istream & operator >> (istream& in, Days & d)
